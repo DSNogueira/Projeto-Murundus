@@ -99,5 +99,10 @@ Esta multiplicidade de ângulos analíticos faz dos murundus um sistema modelo p
 
 ## Licença
 
-MIT © Denis S. Nogueira
+CC BY-NC-ND 4.0 © Denis Silva Nogueira — IFMT
+
+Este repositório é licenciado sob a licença **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**.
+Consulte o arquivo [LICENSE](LICENSE) para os termos completos.
+
+> **Uso comercial e obras derivadas são expressamente proibidos sem autorização prévia por escrito.**
 
